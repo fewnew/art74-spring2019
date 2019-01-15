@@ -6,7 +6,7 @@
 + Follow along on our journey here: https://www.instagram.com/fewnew.academy/
 + [Link to class Google Drive](https://drive.google.com/drive/u/1/folders/1_7Iqxdxp8lJclV80gxv_3a55Ud1THcp7).
 
-[Home](https://github.com/fewnew/art74-spring2019) | [Syllabus](needs link here) | [Readings](needs link here) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | [Small Assignments](needs link here)
+[Home](https://github.com/fewnew/art74-spring2019) | [Syllabus](needs link here) | [Readings](needs link here) | [Projects](https://github.com/fewnew/art74-fall2018/tree/master/projects) | [Small Assignments](needs link here) |
 
 
 ![alt text](https://preview.ibb.co/dCFJ2T/Flipbook0405_copy.jpg)
