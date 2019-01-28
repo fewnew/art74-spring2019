@@ -1,4 +1,4 @@
-Ch. 1 Understanding the Light
+Reading 1 Understanding the Light
 
 When skimming the reading I picked up a few important details about light. The first detail is that light is a wavelength, and depending on how long or short the wave is depends on the type of wave. Light can be transparent through or reflected off of objects. When it comes to the color of light it was thought that white light was the standard, however that is far from it. White light is actually many colors of light put together. Bill Nye the Science Guy taught me that the color we see are from white light being absorbed and reflected to the human eye. 
 
