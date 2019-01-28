@@ -11,7 +11,7 @@ This course consists of smaller assignments which build up necessary skills for 
 1. [Project 01: GifcARds](https://github.com/fewnew/art74-spring2019/tree/master/projects/project1/readme.md)
 2. [Project 02: HypermediART](https://github.com/fewnew/art74-spring2019/tree/master/projects/project2/readme.md)
 3. [Project 03: 3D MeshMash](https://github.com/fewnew/art74-spring2019/blob/master/projects/project3/readme.md)
-4. [Project 04: eFolio](https://github.com/fewnew/art74-fall2018/tree/master/projects/project5#project-05-efolio)
-5. [Project 05: ArtWare](https://github.com/fewnew/art74-fall2018/tree/master/projects/project6#project-06-artware)
-6. [Exhibition + Final paper](https://github.com/fewnew/art74-fall2018/tree/master/projects/project7-finalpaper#final-paper)
+4. [Project 04: eFolio](https://github.com/fewnew/art74-spring2019/blob/master/projects/project4/readme.md)
+5. [Project 05: ArtWare](https://github.com/fewnew/art74-spring2019/blob/master/projects/project5/readme.md)
+6. [Exhibition + Final paper](https://github.com/fewnew/art74-spring2019/blob/master/projects/project6-finalpaper/readme.md)
 
