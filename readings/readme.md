@@ -6,7 +6,7 @@
 [Home](https://github.com/fewnew/art74-spring2019) | [Syllabus](https://github.com/fewnew/art74-spring2019/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-spring2019/tree/master/readings) | [Projects](https://github.com/fewnew/art74-spring2019/tree/master/projects) | [Small Assignments](https://github.com/fewnew/art74-spring2019/tree/master/small-assignments) |
 | --- | --- | --- | --- | --- |
 
-1. [Reading 01: Understanding the Light](https://github.com/fewnew/art74-spring2019/blob/master/Readings/reading01/understanding-the-light.md) by European Lighting School // due 01/29
+1. [Reading 01: Understanding the Light](https://github.com/fewnew/art74-spring2019/blob/master/readings/reading01/understanding-the-light.md) by European Lighting School // due 01/29
 2. [Reading 02: Hypermedia Essay - Thoughts On Glitch](https://github.com/fewnew/art74-spring2019/blob/master/Readings/reading02/toughts-on-glitch.md) by Nick Briz // due
 3. [Reading 03: Chapter 3 of *Infographics - The Power of Visual Storytelling*](https://github.com/fewnew/art74-spring2019/blob/master/Readings/reading03/Infographics_The_Power_of_Visual_Storytelling_----_(Chapter_03_The_Visual_Storytelling_Spectrum_An_Objective_Approach).pdf) by Jason Lankow, Ross Crooks, and Josh Ritchie // due
 4. [Reading 04: Invisible Visualities](https://github.com/fewnew/art74-spring2019/blob/master/Readings/reading04/InvisibleVisualities.pdf) by Amanda Starling Gould // due
