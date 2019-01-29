@@ -1,0 +1,5 @@
+Reading 1 Understanding the Light
+
+When skimming the reading I picked up a few important details about light. The first detail is that light is a wavelength, and depending on how long or short the wave is depends on the type of wave. Light can be transparent through or reflected off of objects. When it comes to the color of light it was thought that white light was the standard, however that is far from it. White light is actually many colors of light put together. Bill Nye the Science Guy taught me that the color we see are from white light being absorbed and reflected to the human eye.
+
+We use colors and mix them to create a variety of colors, this also includes light. There are two types of color mixings: additive and subtractive. The additive colors consist of RGB. When the colors are combined with one another they have possibilities of making CMY. If all three of the RGB colors are combined they create white light. Additive is the opposite. You start with CMY to create colors of RGB. If all three of CMY are combined you end up with the color black.
