@@ -1,0 +1,3 @@
+The reading on light and lighting was very interesting! I actually really enjoyed the supplementary images they included and the layout of the information. As an art major, I have been painting for years, but have found it fascinating that paint and light mix in very different ways. As light is reflected, and as it is different wavelengths, it combines to be white, while paint colors combine to create black.
+
+I remember learning about refraction, lighting with complimentary colors, and various aspects of light in elementary school, and learning to think about light as a resource in high school, but am excited to apply color theory in class.
