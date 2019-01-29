@@ -4,7 +4,7 @@
 + N. Leily Khatibi - contact: <niousha.khatibi@sjsu.edu>
 + Tue/Thu 9:00 - 11:50am
 + Follow along on our journey here: https://www.instagram.com/fewnew.academy/
-+ [Link to class Google Drive](https://drive.google.com/open?id=1_7Iqxdxp8lJclV80gxv_3a55Ud1THcp7).
++ [Link to class Google Drive](https://drive.google.com/drive/folders/1dGRz59r8bvGSGJEy_udLZDmKWSmjdSbz?usp=sharing).
 
 [Home](https://github.com/fewnew/art74-spring2019) | [Syllabus](https://github.com/fewnew/art74-spring2019/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-spring2019/tree/master/readings) | [Projects](https://github.com/fewnew/art74-spring2019/tree/master/projects) | [Small Assignments](https://github.com/fewnew/art74-spring2019/tree/master/small-assignments) |
 | --- | --- | --- | --- | --- |
