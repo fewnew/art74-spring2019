@@ -6,10 +6,6 @@
 
 [Home](https://github.com/fewnew/art74-spring2019) | [Syllabus](https://github.com/fewnew/art74-spring2019/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-spring2019/tree/master/readings) | [Projects](https://github.com/fewnew/art74-spring2019/tree/master/projects) | [Small Assignments](https://github.com/fewnew/art74-spring2019/tree/master/small-assignments) |
 | --- | --- | --- | --- | --- |
-=======
-[Home](https://github.com/fewnew/art74-spring2019) | [Syllabus](https://github.com/fewnew/art74-spring2019/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-spring2019/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-spring2019/tree/master/projects) | Small Assignments
---- | --- | --- | --- | ---
->>>>>>> Stashed changes
 
 [Go to Course Schedule](https://github.com/fewnew/art74-spring2019/blob/master/syllabus.md#course-schedule)
 
