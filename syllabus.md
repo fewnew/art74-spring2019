@@ -179,7 +179,6 @@ The SJSU Counseling and Psychological Services is located on the corner of 7th S
 ## Course Schedule
 Week | Date | Topics, Readings, Assignments, Deadlines
 --- | --- | ---
-<<<<<<< Updated upstream
 1 | Thu, 01/24 | **Course Introduction / Overview of Syllabus** - Introductions (Instructor-Students), GitHub registration.
 1 | Tue, 01/29 | **Lecture:** Light + color models +  <br> **Lab:** Tutorials on how to use GitHub (version control, clone, commit). <br> **Deliver:** [Reading 01](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading01/understanding-the-light.md) // in class discussion on the reading.
 2 | Thu, 01/31 | **Lecture:** Beauty in errors ↣ Glitch art <br> **Lab:** Data bending + Intro to pixel based image with Photoshop ↣ Topics related to image formats, resolution, the interface and terminology in Photoshop. <br> **Deliver:** [Reading 02](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading02/toughts-on-glitch.md) // in class discussion on the reading.
