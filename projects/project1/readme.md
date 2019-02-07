@@ -7,6 +7,10 @@ Your trigger image will be a conceptual digital collage you have made by using A
 
 
 ## Tutorials similar to the demos done in class
+
+### Remove background from image in Photoshop:
+* https://www.youtube.com/watch?v=tuAaVKYTirI
+
 ### Flower distortion: 
 * https://www.youtube.com/watch?v=MFZaJAC61SE
 * https://www.youtube.com/watch?v=6UtogkOozbw
