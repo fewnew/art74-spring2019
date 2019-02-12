@@ -5,6 +5,13 @@ For this project, you will be creating a printed trigger image and an overlay to
 
 Your trigger image will be a conceptual digital collage you have made by using Adobe Photoshop and Illustrator together to manipulate images. The augmented reality overlay image will be an animated gif you have made in Photomosh. Harness your skills to create a more elaborate animation or a cinematographic style gif. Just use your imagination and create a complicated animation based on a narrative.
 
+______
+## Print details:
+* 100lbs thick paper
+* Optional print size (any size you want)
+* color printed
+_______
+
 
 ## Tutorials similar to the demos done in class
 
