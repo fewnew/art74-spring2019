@@ -1,3 +1,0 @@
-I’ve seen infographics on social media but I never consider their importance for marketing. They’re visually appealing and interesting to read. I learned that Infographics are great for communicating to a broad audience that you’re knowledgeable in a certain subject. In order for infographics to be successful, they need to appeal to a broad audience and have some kind of hook to draw them in.
-
-I would never use a infographic as an ad because they don’t represent a product or value. I  would, however, use them to add a visual aspect to an article in a magazine or website. Infographics are great tools for storytelling and make the read feel like the learned something meaningful.  
