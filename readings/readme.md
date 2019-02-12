@@ -16,7 +16,6 @@
 8. [Reading 08: Read me, Run me, Execute me](https://github.com/fewnew/art74-spring2019/blob/master/Readings/reading08/Arns_Inke_Read_me_run_me_execute_me%20.pdf) by Inke Arns
 9. [Reading 09: Hello Processing](https://github.com/fewnew/art74-spring2019/blob/master/Readings/reading09/hello-processing.md) by The Processing Foundation, tutorials: Daniel Shiffman
 10. [Reading 10: Processing Transition](https://github.com/fewnew/art74-spring2019/blob/master/Readings/reading10/processing-transition.md) by Lauren McCarthy
-=======
 
 
 ## Reading Response Instructions
