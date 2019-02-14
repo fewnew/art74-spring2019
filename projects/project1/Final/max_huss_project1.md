@@ -17,7 +17,6 @@ b. <a style="background-color:black;color:white;text-decoration:none;padding:4px
 
 **Project Description:** 
 
-What does your project look/sound/smell/feel like? <br>
-What is the conceptual/personal/political motivation behind the project?<br>
+This image is moody! I mostly worked on it in the morning and evening, and I enjoy playing with those moody layers around those times. I love the ocean, so that shows up in a lot of my art. The moon seemed like a fun image to repeat across the top of the frame; afterall, the moon causes the ocean to move like it does. The moon is set on a gradient that moves opposite to the gradient of the background: from turquoise to red, and from red to turquoise. I included the neon phrase mid frame because I needed something central, and what better centerpiece than such an encouraging messege! It's interesting, juxtopposed against that dark background... I'm not sure what it suggests. Upon further inspection the viewer will notice that two copies of Cello Suite No.1 are laid over the water. I'd encourage you to listen to the song ![here](https://open.spotify.com/track/3kkKv1FcDYFso5JwjM6pJh). <br> 
 What is the intended context? Where/how does the audience experience it?<br>
 What/who are your influences for this particular piece?<br>
