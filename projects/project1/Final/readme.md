@@ -16,9 +16,10 @@ What/who are your influences for this particular piece?
 ____
 The grading of each project will be based on:
 <br>
-Researching for influence inspirational art (15%)
-The conceptual drive of the project (25%)
-The visual appeal and the aesthetics of the final presentation (30%)
-Technical aspects and functionality (30%)
+Researching for influence inspirational art (15%) <br>
+The conceptual drive of the project (25%) <br>
+The visual appeal and the aesthetics of the final presentation (30%) <br>
+Technical aspects and functionality (30%) 
+<br>
 
 ![digital collage](https://i.imgur.com/J5FClnq.jpg)
