@@ -5,6 +5,13 @@
 3. Include link to the giphy you are using as your Aumented Reality overlay
 4. Upload a screen recording or a video recording of you activating the AR on your collage print and link to it.
 
+## Documentation
+
+* Title of the work
+* Medium: Print on paper + AR overlay
+* Dimensions
+* Attribution (burrow and tell) -- mention where/who you are collecting external imagery from that you haven't created yourself.
+
 ## Project Description (two paragraphs minimum)
 Your project should address the following questions:
 <br><br>
