@@ -6,7 +6,7 @@
 4. Upload a screen recording or a video recording of you activating the AR on your collage print and link to it.
 
 ## Project Description (two paragraphs minimum)
-Every project should address the following questions:
+Your project should address the following questions:
 <br><br>
 What does your project look/sound/smell/feel like? <br>
 What is the conceptual/personal/political motivation behind the project?<br>
