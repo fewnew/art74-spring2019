@@ -1,3 +1,4 @@
+# Guidleline for project 1 final submission
 
 1. Include collage image directly in your GitHub fianl submission (.md)
 2. Include link to the giphy you are using as your Aumented Reality overlay
