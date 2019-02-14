@@ -1,10 +1,11 @@
 # Guidleline for project 1 final submission
 
-1. Include collage image directly in your GitHub fianl submission (.md)
-2. Include link to the giphy you are using as your Aumented Reality overlay
-3. Upload a screen recording or a video recording of you activating the AR on your collage print.
+1. Print your collage on 100lbs thick paper
+2. Include collage image directly in your GitHub fianl submission (.md)
+3. Include link to the giphy you are using as your Aumented Reality overlay
+4. Upload a screen recording or a video recording of you activating the AR on your collage print.
 
-## Project Description (2 paragraphs minimum)
+## Project Description (two paragraphs minimum)
 Every project should address the following questions:
 <br><br>
 What does your project look/sound/smell/feel like? <br>
