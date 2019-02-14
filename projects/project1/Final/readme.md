@@ -5,7 +5,7 @@
 
 ## Project Description (2 paragraphs minimum)
 Every project should address the following questions:
-<br>
+<br><br>
 What does your project look/sound/smell/feel like? <br>
 What is the conceptual/personal/political motivation behind the project?<br>
 What is the intended context? Where/how does the audience experience it?<br>
