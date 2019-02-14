@@ -3,10 +3,11 @@
 ![Photo](https://i.imgur.com/9ihOpSf.jpg)<br>
 2.https://media.giphy.com/media/1Q9AgeaDJ1VpzHa4nP/giphy.gif
 3.https://media.giphy.com/media/lorONk680AsryZxObD/giphy.gif<br>
-4.https://youtu.be/JAWRq1bE_pE<br>
+4.https://youtu.be/JAWRq1bE_pE
+<br><br>
 **Documentation:**
 
-1. *Today was a good day*<br>
+1. *Today Was a Good Day*<br>
 2. Print,AR.<br>
 3. 100lb.A4 paper, BlippAR app.<br>
 4. *Photos Used:*<br>
