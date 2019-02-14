@@ -1,16 +1,16 @@
-**# Files:**
+**Files:**
 
 1.![Photo](https://i.imgur.com/9ihOpSf.jpg)<br>
 2.https://media.giphy.com/media/1Q9AgeaDJ1VpzHa4nP/giphy.gif
-3.https://media.giphy.com/media/lorONk680AsryZxObD/giphy.gif
-**# Documentation**
+3.https://media.giphy.com/media/lorONk680AsryZxObD/giphy.gif<br>
+**Documentation:**
 
 1.title of work <br>
 2.Medium <br>
 3.Dimensions <br>
 4.attributions <br>
 <br>
-**# Project Description** 
+**Project Description:** 
 
 What does your project look/sound/smell/feel like? <br>
 What is the conceptual/personal/political motivation behind the project?<br>
