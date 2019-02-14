@@ -14,7 +14,7 @@ What is the intended context? Where/how does the audience experience it?<br>
 What/who are your influences for this particular piece?
 
 ____
-*The grading of each project will be based on:*
+**The grading of each project will be based on:**
 <br>
 Researching for influence inspirational art (15%) <br>
 The conceptual drive of the project (25%) <br>
