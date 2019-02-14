@@ -3,7 +3,7 @@
 1. Print your collage on 100lbs thick paper
 2. Include collage image directly in your GitHub final submission (.md) file <br> Name file as: **FirstName_LastName_Project1.md**
 3. Include link to the giphy you are using as your Aumented Reality overlay
-4. Upload a screen recording or a video recording of you activating the AR on your collage print.
+4. Upload a screen recording or a video recording of you activating the AR on your collage print and link to it.
 
 ## Project Description (two paragraphs minimum)
 Every project should address the following questions:
