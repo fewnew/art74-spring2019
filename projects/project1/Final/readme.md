@@ -18,3 +18,5 @@ Researching for influence inspirational art (15%)
 The conceptual drive of the project (25%)
 The visual appeal and the aesthetics of the final presentation (30%)
 Technical aspects and functionality (30%)
+
+![digital collage](https://i.imgur.com/J5FClnq.jpg)
