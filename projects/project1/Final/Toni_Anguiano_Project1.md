@@ -1,5 +1,5 @@
 # Files
-1. 
+1. ![digital collage](https://imgur.com/a/09peSgB)
 2. https://media.giphy.com/media/5QKpe0UccaLUfk84DH/giphy.gif
 3. https://vimeo.com/user95156356/review/317551641/97d0043c45
 
@@ -8,12 +8,12 @@
 1. Title: Scream
 2. Medium: Print on Paper + AR Overlay
 3. Dimensions: 1800 x 3600; 9.3 MB
-4. Attribute: Cemetery image: Scott J. Larson
-            CLassic Monsters: Chris Cao
-               Scream bubble: LineArtPilot
-            Hack Slash Cover: Tim Seeley
-             Geometric shape: Freepik.com
-                      Flower: Getty Images
+4. Attribute: Cemetery image: Scott J. Larson <b>
+            CLassic Monsters: Chris Cao <b>
+               Scream bubble: LineArtPilot <b>
+            Hack Slash Cover: Tim Seeley <b>
+             Geometric shape: Freepik.com <b>
+                      Flower: Getty Images <b>
 
 
 
