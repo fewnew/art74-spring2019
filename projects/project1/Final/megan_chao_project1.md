@@ -11,8 +11,8 @@ The original picture had him holding a hose, but I felt that it was not interest
 The picture actually does not have much personal motivation behind it, but more of a conceptual one. My project is a visual representation of a whimsical and dreamlike state in my perspective where the audience is supposed to feel more youthful and happy. My influences for the piece relate back to vintage magazines, but specifically the hand-cut collages people create from the magazines. My influence is also the man in the picture, a Taiwanese singer.  
 ___
 ### Links
-![Phase 1 - Photo] (https://imgur.com/a/MgeBwYB)
+![Phase 1 - Photo](https://imgur.com/a/MgeBwYB)
 
-[Phase 2 - Gif] (https://media.giphy.com/media/3OuT48ae5f7Qt3zf3z/giphy.gif)
+[Phase 2 - Gif](https://media.giphy.com/media/3OuT48ae5f7Qt3zf3z/giphy.gif)
 
-[Phase 3 - Ar Video] (https://youtu.be/UEjvz-BaH_0)
+[Phase 3 - Ar Video](https://youtu.be/UEjvz-BaH_0)
