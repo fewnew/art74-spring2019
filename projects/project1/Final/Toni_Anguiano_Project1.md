@@ -1,12 +1,12 @@
 # Files
-1. ![Collage](https://imgur.com/hrZXWWi)
+1 ![Collage](https://i.imgur.com/hrZXWWi.jpg)
 
 2. https://media.giphy.com/media/5QKpe0UccaLUfk84DH/giphy.gif
 3. https://vimeo.com/user95156356/review/317551641/97d0043c45
 
 
 # Documentation
-1. Title: Scream
+1. Title: What A Scream
 2. Medium: Print on Paper + AR Overlay
 3. Dimensions: 1800 x 3600; 9.3 MB
 4. Attribute: Cemetery image: Scott J. Larson <b>
