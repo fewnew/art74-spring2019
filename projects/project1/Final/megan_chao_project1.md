@@ -12,5 +12,7 @@ The picture actually does not have much personal motivation behind it, but more 
 ___
 ### Links
 ![Phase 1 - Photo] (https://imgur.com/a/MgeBwYB)
+
 [Phase 2 - Gif] (https://media.giphy.com/media/3OuT48ae5f7Qt3zf3z/giphy.gif)
+
 [Phase 3 - Ar Video] (https://youtu.be/UEjvz-BaH_0)
