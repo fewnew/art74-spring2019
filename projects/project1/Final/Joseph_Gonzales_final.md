@@ -4,7 +4,7 @@
 + #### 8.5" x 11"
 
 + ### Phase 1
-+ ![Joseph_Gonzales_Phase1](https://i.imgur.com/a/uv1pxm1.jpg)
++ ![img](https://i.imgur.com/sMW7v2h.jpg)
 + My project replicates abstract art based off 1970s psychedelic felt poster and the 1976 painting of the "Rock of Ages". Its a collage of a old Americana painting from the 1800s that is collaged with imagery and art that gives it a space like effect.I wanted to give my piece the psychedelic art look with using colors of purples and blues. 
 With the PhotoMosh It gave my art a whole new felling of liquid which added to the psychedelic effect of the art. I wanted to give the viewer something interesting to look at where they have to sit down and star at the art longer than a glance. 
 + My motivation behind this project was to create a piece that was interesting for myself and also for the viewer. For Me i always find inspiration through old paintings and imagery. In most of my art i try to take things back and really bring out those inspirations from the 1920s-80s.
