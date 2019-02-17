@@ -1,0 +1,3 @@
+before reading this article, i was very familiar with augmented reality. i knew the difference between augmented reality and virtual reality. but at first when i was learning about these two forms of art, i suspected that augmented reality was just a concentration of something within virtual reality. 
+
+i feel like augmented reality is very easy to differentiate. augmented reality such as snapchat filters or even pokemon go are easy and prime examples of augmented reality. in comparison to virtual reality, we don't have to fully immerse ourselves into another reality in order to experience it, ie. using our phones to see and interact with images in our own reality.
