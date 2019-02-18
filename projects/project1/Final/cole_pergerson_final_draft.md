@@ -1,7 +1,7 @@
 # Expand Your Business
 <br>
 Medium: Print on paper + AR overlay
-Dimensions: 
+
 ---------------------------
 
 My AR project consists of a small trigger image printed on paper and a gif that overlays the trigger. I was inspired by wealth inequality when thinking about what my project but I then I changed my focus to the effects of globalism. Asetheticaly, I was striving for my project to resemble modern business marketing ads. They usually consist of dark cool colors and depict some symbol of prosperity.
@@ -17,10 +17,10 @@ Gif link: https://media.giphy.com/media/5BQlojKqw2x3xGasIv/giphy.gif
 ![Expand Your Business](https://i.imgur.com/6DbS9gv.png)
 
 ----------------------------
-### Attribution:
+## Attribution:
 Graphics were made by Fullvector on FreePik.com <br><br>
 
-Artices used for research and word collage: <br><br>
+## Artices used for research and word collage: <br><br>
 Amadeo, Kimberly. “The True Cause of Income Inequality in America.” *The Balance*, 7 Nov. 2018, www.thebalance.com/income-inequality-in-america-3306190. <br><br>
 Berger, Nahuel. “Theorist Eric Maskin: Globalization Is Increasing Inequality.” *World Bank*, 13 June 2014, www.worldbank.org/en/news/feature/2014/06/23/theorist-eric-maskin-globalization-is-increasing-inequality.<br><br>
 Kolb , Melina. “What Is Globalization?” *PIIE*, 29 Oct. 2018, piie.com/microsites/globalization/what-is-globalization.html#group-effects-nCR917Bvfg.<br><br>
