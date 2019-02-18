@@ -17,7 +17,7 @@ Gif link: https://media.giphy.com/media/5BQlojKqw2x3xGasIv/giphy.gif
 ![Expand Your Business](https://i.imgur.com/6DbS9gv.png)
 
 ----------------------------
-###Attribution:
+### Attribution:
 Graphics were made by Fullvector on FreePik.com <br><br>
 
 Artices used for research and word collage: <br><br>
