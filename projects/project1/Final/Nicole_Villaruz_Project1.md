@@ -27,3 +27,5 @@ My intentions for this piece were for it to be purely aesthetic; there is not an
 I am influenced by ethereal photography, as it captures a fairytale-like essence. I am also influenced by the way skies appear around dusk and sunset; the colors of the sky constantly paint different colors depending on time of day and the season.
 
 https://i.imgur.com/PuyRFmU.png
+
+https://imgur.com/a/axGtfgm
