@@ -4,9 +4,9 @@
 -Medium: Print on paper + AR overlay
 -Dimensions: 8.5 x 11 in
 -Attribution:
-https://www.tomswallpapers.com/download/8776/1680x1050/
-https://www.freepik.com/free-vector/abstract-geometric-elements-set-vector_3776980.htm
-https://pixabay.com/p-3189881/?no_redirect
+  https://www.tomswallpapers.com/download/8776/1680x1050/
+  https://www.freepik.com/free-vector/abstract-geometric-elements-set-vector_3776980.htm
+  https://pixabay.com/p-3189881/?no_redirect
 -[Gif] (https://media.giphy.com/media/F3JhN1AsvuqwkbLoTG/giphy.gif)
 -[Video] 
 
@@ -19,4 +19,4 @@ My intentions for this piece were for it to be purely aesthetic; there is not an
 
 I am influenced by ethereal photography, as it captures a fairytale-like essence. I am also influenced by the way skies appear around dusk and sunset; the colors of the sky constantly paint different colors depending on time of day and the season.
 
-[Imgur](https://i.imgur.com/PuyRFmU.png)
+https://i.imgur.com/PuyRFmU.png
