@@ -17,7 +17,6 @@ Phase 1 - Photo:
 ![ ][logo]
 
 [logo]: https://imgur.com/a/MgeBwYB "Phase 1" 
-(https://imgur.com/a/MgeBwYB)
 
 [Phase 2 - Gif](https://media.giphy.com/media/3OuT48ae5f7Qt3zf3z/giphy.gif)
 
