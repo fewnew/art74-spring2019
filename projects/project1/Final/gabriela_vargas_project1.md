@@ -5,7 +5,7 @@
 3.https://media.giphy.com/media/jIZiGWEAAJfKiZ4G3O/giphy.gif <br>
 4.https://media.giphy.com/media/5UA2P64yhuN9rGAEb7/giphy.gif <br>
 5.**Watch BUTTERFLY EFFECT MUSIC VIDEO here:** <br>
-[![BUTTERFLY EFFECT MV](https://i.ytimg.com/an_webp/_EyZUTDAH0U/mqdefault_6s.webp?du=3000&sqp=CLW1reMF&rs=AOn4CLDbKVqgXiAlxjPnWHNMIIUbOpke2A)](https://www.youtube.com/watch?v=_EyZUTDAH0U) <br>
+[![BUTTERFLY EFFECT MV](https://i.ytimg.com/an_webp/_EyZUTDAH0U/mqdefault_6s.webp?du=3000&sqp=CN6vsOMF&rs=AOn4CLBSRvgxfEFkR02ixA0BOS9s9Cxg0Q)](https://www.youtube.com/watch?v=_EyZUTDAH0U) <br>
 <br>
 ## Documentation
 * Title of the work: *THE BUTTERFLY EFFECT*
