@@ -1,17 +1,17 @@
 # Dreamland
 
 ## Documentation
--Medium: Print on paper + AR overlay
--Dimensions: 8.5 x 11 in
--Attribution:
+  -Medium: Print on paper + AR overlay
+  -Dimensions: 8.5 x 11 in
+  -Attribution:
   https://www.tomswallpapers.com/download/8776/1680x1050/
 
   https://www.freepik.com/free-vector/abstract-geometric-elements-set-vector_3776980.htm
 
   https://pixabay.com/p-3189881/?no_redirect
 
--[Gif](https://media.giphy.com/media/F3JhN1AsvuqwkbLoTG/giphy.gif)
--[Video] 
+  -[Gif](https://media.giphy.com/media/F3JhN1AsvuqwkbLoTG/giphy.gif)
+  -[Video] 
 
 ## Project Description
 As a whole, this piece looks and feels girly. It is also youthful and dreamy. I started with three of the same photograph of myself with an anaglyph edit. I worked around this image to put together the rest of the project. I retained the blue and pink motif throughout the whole project. The augmented reality effect gives an edge to the femininity.
