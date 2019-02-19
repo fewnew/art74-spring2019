@@ -20,9 +20,9 @@ Syndra by League of Legends, Riot Games
 
 
 **Phase 1**
-https://i.imgur.com/FFRumgQ.jpg
+https://i.imgur.com/FFRumgQ.jpg.md
 **Phase 2**
-https://media.giphy.com/media/9DcFKDP3KeeG6MBwPz/giphy.gif
+https://media.giphy.com/media/9DcFKDP3KeeG6MBwPz/giphy.gif.md
 **Recording**
 https://raw.githubusercontent.com/fewnew/art74-spring2019/master/projects/project1/phase2/Melody_Shepard_animation.md.gif
 
