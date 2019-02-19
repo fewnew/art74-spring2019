@@ -1,5 +1,4 @@
 *collage image:*
-
 https://i.imgur.com/8xj6E4k.jpg
 
 *augmented reality overlay:*
