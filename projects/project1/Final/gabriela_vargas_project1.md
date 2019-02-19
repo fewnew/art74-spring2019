@@ -10,7 +10,7 @@
 ## Documentation
 * Title of the work: *THE BUTTERFLY EFFECT*
 * Medium: Print on paper + BlipparAR 
-* Dimensions: 8.27 × 11.69 <br>
+* Dimensions: 8.27 × 11.69 / 15x18 <br>
 * Photos Used:<br>
 a.https://weheartit.com/entry/60286503 <br>
 b.https://weheartit.com/entry/318399703 <br>
