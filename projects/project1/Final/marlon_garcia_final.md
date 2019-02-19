@@ -3,7 +3,7 @@ live every moment
 ![Collage](https://i.imgur.com/sfK3cdS.png)
 https://media.giphy.com/media/1rNtQlxi6gIAWgpfIL/giphy.gif
 
-Documentation
+<h1>Documentation</h1>
 
 Live every moment
 Medium: Print on paper + AR overlay
