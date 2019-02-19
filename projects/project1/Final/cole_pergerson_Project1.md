@@ -1,7 +1,7 @@
 # Expand Your Business
 <br>
 Medium: Print on paper + AR overlay <br>
-Dimensions: 1000x563 pixels
+Dimensions: 1920 x 1080 pixels
 
 ---------------------------
 
