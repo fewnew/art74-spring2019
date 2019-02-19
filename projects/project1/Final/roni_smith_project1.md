@@ -8,7 +8,7 @@
 Title: Lorem ipsum<br><br>
 Medium: Print on paper + AR overlay<br><br>
 Dimensions: 8 ½ x 11 “<br><br>
-Attribution: Sculpture by Suzie Zamit; frame: Floral Frame 2 by user Firkin on openclipart.org<br>
+Attribution: Sculpture by Suzie Zamit; frame: Floral Frame 2 by user Firkin on openclipart.org<br><br>
 	
   
   The sensations I wanted to make when creating this image is a feeling of something clean cut and simple. The background gradient and the frame are grey and metallic-like, so there is a sense of coldness in the picture. It also allows the other colors in the photo, like the yellow light in the upper left, to stand out.<br><br>
