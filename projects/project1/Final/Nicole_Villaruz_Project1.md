@@ -2,7 +2,9 @@
 
 ## Documentation
   -Medium: Print on paper + AR overlay
+  
   -Dimensions: 8.5 x 11 in
+  
   -Attribution:
   https://www.tomswallpapers.com/download/8776/1680x1050/
 
@@ -11,6 +13,7 @@
   https://pixabay.com/p-3189881/?no_redirect
 
   -[Gif](https://media.giphy.com/media/F3JhN1AsvuqwkbLoTG/giphy.gif)
+  
   -[Video] 
 
 ## Project Description
