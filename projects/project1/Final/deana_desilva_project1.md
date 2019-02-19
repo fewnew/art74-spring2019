@@ -1,19 +1,19 @@
 *collage image:*
 https://i.imgur.com/8xj6E4k.jpg
-
+---
 *augmented reality overlay:*
 https://media.giphy.com/media/YjucRG0lFa0o0U5arC/giphy.gif
-
+---
 *screen recording:*
 in progress
-
+---
 *documentation:*
 *title of work:* the squirrel initiative
 *attribution:* https://i.pinimg.com/originals/41/d8/ee/41d8ee8ccb140a70abbb3035f7721f70.jpg
 https://cdn.discordapp.com/attachments/441094630633635840/547285372590358554/download.jpg
 https://www.pinterest.es/pin/413697915754032922/
 photomosh for glitch effect/ gif rendering 
-
+---
 *Project Description:*
 the squirrel initiative looks like, at first, a collage of just squirrels. the glitched out version on the squirrel initiative is very distorted and is black and white. although no sound is present, the squirrel initiative pre glitch could sound like any regular day outside. whereas the glitched version of the squirrel initiative may sound like when a tv projects static. along with feeling, the background of the pre glitch squirrel initiative may feel like touching the leaves of a plant, as similar to the ones in the background. versus the glitched version of the squirrel initiative where it may feel like touching a warm tv thats attracted a lot of static on its screen. 
 there is no real conceptual or motivational aspect to the squirrel initiative. i simply asked my boyfriend what subject my collage should be on and he chose squirrels.
