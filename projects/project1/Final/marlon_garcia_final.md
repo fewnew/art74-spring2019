@@ -1,23 +1,22 @@
-live every moment
+<h1>Living Life</h1>
 
 ![Collage](https://i.imgur.com/sfK3cdS.png)
 https://media.giphy.com/media/1rNtQlxi6gIAWgpfIL/giphy.gif
 
-<h1>Documentation</h1>
-
+<h2>Documentation</h2>
 Live every moment
 Medium: Print on paper + AR overlay
 Dimensions: 3.333 in width by 2.947 in height.
 
 
-Atribution:
-warewolf created by me
-start living sign - pinterest
-light - pinterest
-planet earth - live science.com
-desert - pixels.com
+<h2>Atribution:</h2>
+<li>warewolf created by me</li>
+<li>start living sign - pinterest</li>
+<li>light - pinterest</li>
+<li>planet earth - live science.com</li>
+<li>desert - pixels.com</li>
 
-
+<h2>Project Description</h2>
 My project looks very spacial, it gives the audience the feeling of being in a different state of mind, feeling like you are in a different dimension, in a non recognizable place with the looks of a desert, I could smell the a peaceful ambient that the ware-wolf gives to the image.
 The conceptual and personal motivation about this project has been that Ive always been amused by nature, I love working with animals and the natural resources this planet has to offer, but personally animals grab my attention the most, any kind of animal has my heart. It triggers me that there is a lot of animal cruelty around the world in todays society, and only few see animals like another member of our families.
 
