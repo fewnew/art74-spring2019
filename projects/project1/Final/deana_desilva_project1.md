@@ -1,13 +1,14 @@
-*collage image*
+*collage image:*
+
 https://i.imgur.com/8xj6E4k.jpg
 
-*augmented reality overlay*
+*augmented reality overlay:*
 https://media.giphy.com/media/YjucRG0lFa0o0U5arC/giphy.gif
 
-*screen recording*
+*screen recording:*
 in progress
 
-*documentation*
+*documentation:*
 *title of work:* the squirrel initiative
 *attribution:* https://i.pinimg.com/originals/41/d8/ee/41d8ee8ccb140a70abbb3035f7721f70.jpg
 https://cdn.discordapp.com/attachments/441094630633635840/547285372590358554/download.jpg
