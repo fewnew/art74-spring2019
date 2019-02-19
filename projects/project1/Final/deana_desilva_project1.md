@@ -13,6 +13,7 @@ in progress
 *documentation:*
 ---
 *title of work:* the squirrel initiative
+*dimensions:* 550 x 778 pixels or 7.639 x 10.806 inches
 
 *attribution:*
 ---
