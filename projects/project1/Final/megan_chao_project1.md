@@ -14,9 +14,7 @@ The picture actually does not have much personal motivation behind it, but more 
 ___
 ### Links
 Phase 1 - Photo: 
-![ ][logo]
-
-[logo]: https://imgur.com/a/MgeBwYB "Phase 1" 
+![alt text](https://i.imgur.com/YSmCybs.jpg)
 
 [Phase 2 - Gif](https://media.giphy.com/media/3OuT48ae5f7Qt3zf3z/giphy.gif)
 
