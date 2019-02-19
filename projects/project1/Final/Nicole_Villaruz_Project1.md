@@ -9,7 +9,7 @@
   
   [sky](https://www.tomswallpapers.com/download/8776/1680x1050/)
 
-  [vector](https://www.freepik.com/free-vector/abstract-geometric-elements-set-vector_3776980.htm)
+  [vector shape](https://www.freepik.com/free-vector/abstract-geometric-elements-set-vector_3776980.htm)
 
   [rose](https://pixabay.com/p-3189881/?no_redirect)
 
