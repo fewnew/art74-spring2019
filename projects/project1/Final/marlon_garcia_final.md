@@ -4,9 +4,8 @@
 https://media.giphy.com/media/1rNtQlxi6gIAWgpfIL/giphy.gif
 
 <h2>Documentation</h2>
-Live every moment
-Medium: Print on paper + AR overlay
-Dimensions: 3.333 in width by 2.947 in height.
+<li>Medium: Print on paper + AR overlay</li>
+<li>Dimensions: 3.333 in width by 2.947 in height.</li>
 
 
 <h2>Atribution:</h2>
