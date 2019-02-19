@@ -7,7 +7,7 @@
   https://www.tomswallpapers.com/download/8776/1680x1050/
   https://www.freepik.com/free-vector/abstract-geometric-elements-set-vector_3776980.htm
   https://pixabay.com/p-3189881/?no_redirect
--[Gif] (https://media.giphy.com/media/F3JhN1AsvuqwkbLoTG/giphy.gif)
+-[Gif](https://media.giphy.com/media/F3JhN1AsvuqwkbLoTG/giphy.gif)
 -[Video] 
 
 ## Project Description
