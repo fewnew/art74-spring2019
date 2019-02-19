@@ -18,6 +18,7 @@ c.http://luneattic.tumblr.com/post/96433832771/cosmiic-by-cosmiic <br>
 d.https://weheartit.com/entry/298354718 <br>
 e.https://weheartit.com/entry/325551825 <br>
 f.https://weheartit.com/entry/291720651 <br>
+g. https://www.freeiconspng.com/uploads/simple-lightning-png-26.png <br>
 <br>
 
 ## Project Description
