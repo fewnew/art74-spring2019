@@ -14,6 +14,7 @@
 ![alt text](https://i.imgur.com/RbaXZYj.jpg)
 
 [https://media.giphy.com/media/3Z1fpk7rF3oKnWaVGN/giphy.gif]
+AR: https://youtu.be/0l_jySG3QrM
 
 ## Description 
 My project takes the appearance of what is called vaporwave aesthetic. Vaporwave is a musical subgenre and art movement that emerged from the 2010s from the internet based subgenres such as sea punk, witch house, and chill wave. Vaporwave art is most commonly known for its glitchy art, ancient sculptures, 2000s web design, classic cyberpunk aesthetics and Japanese characters in which they’re used collectively to present a very relaxed and dreamy like mood, feel and look to the art. 
