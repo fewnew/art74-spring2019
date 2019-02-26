@@ -9,3 +9,10 @@ Download and print the template from the link below it. The theme you make your 
 
 ![](https://i.pinimg.com/originals/9d/7d/17/9d7d173fbd1c9874077c8053196cef61.jpg)
 https://i.pinimg.com/originals/9d/7d/17/9d7d173fbd1c9874077c8053196cef61.jpg
+
+___
+
+Free stock video and audio:
+* https://videos.pexels.com
+* https://www.videvo.net
+* https://www.bensound.com
