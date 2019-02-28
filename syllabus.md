@@ -189,9 +189,9 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 4 | Tue, 02/19 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 02. <br> **Deliver:** [Project 01 (GifcARds)]().
 5 | Thu, 02/21 | **Lecture:** A time based storytelling media relying on moving pictures with audio. <br> **Lab:** Intro to video art with Premiere ↣ Topics related to navigate Premiere Pro, Timeline, Sequences and Keyframes. <br> **Deliver:** [Reading 05](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading05/Kate%20Horsfield%20-%20Busting%20the%20Tube%3B%20A%20Brief%20History%20of%20Video%20Art.pdf) //  in class discussion on the reading.
 5 | Tue, 02/26 | **Lecture:**  — <br> **Lab:** Intro to point of view, lighting, zoom and creative shooting techniques + Shooting. <br> **Deliver:** Assignment 03 (Storyboard).
-6 | Thu, 02/28 | **Field Trip**
+6 | Thu, 02/28 | **Lecture:**  — <br> **Lab:** — <br> **Deliver:** Progress on Project 03.
 6 | Tue, 03/05 | **Lecture:** *Guest lecturer: Roya Ebtehaj* <br> **Lab:** Advanced Tutorials in Premiere Pro ↣ Topics related to Transitions, Effects, video stabilizing and color correction. <br> **Deliver:** Progress on Project 03.
-7 | Thu, 03/07 | **Lecture:**  — <br> **Lab:** — <br> **Deliver:** Progress on Project 03.
+7 | Thu, 03/07 | **Field Trip**
 7 | Tue, 03/12 | **Lecture:**  — <br> **Lab:** In-class presentation and critical review of Project 03. <br> **Deliver:** [Project 03 (HypermediART)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project3#project-03-hypermediart).
 8 | Thu, 03/14 | **Lecture:** Three-Dimensional Art: Form, volume and mass. <br> **Lab:**  Intro to photogrammetry ↣ 3D reality capture with ________? <br> **Deliver:** [Reading 06](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading06/The_3D_Additivist_Manifesto.pdf) //  in class discussion on the reading.
 8 | Tue, 03/19 | **Lecture:**  — <br> **Lab:** Intro to 3D sculpting with MeshMixer ↣ Topics on mesh smoothing and free-form deformations, mesh simplification and repair. <br> **Deliver:** Assignment 04 (Fragment Collection).
