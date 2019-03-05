@@ -15,4 +15,9 @@ ___
 Free stock video and audio:
 * https://videos.pexels.com
 * https://www.videvo.net
+* https://www.videezy.com
+* https://pixabay.com/videos/
+
+
+### Audio
 * https://www.bensound.com
