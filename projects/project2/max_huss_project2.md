@@ -9,6 +9,7 @@ Medium: Video Art<br>
 Dimensions: 640 x 360 <br>
 Attribution: Music: Original<br>
 Clips:
+* alarm clock  - videezy.com <br>
 * https://www.videezy.com/abstract/21223-handheld-clip-of-old-lady-folding-laundry-on-her-bed<br>
 ## Description
 
