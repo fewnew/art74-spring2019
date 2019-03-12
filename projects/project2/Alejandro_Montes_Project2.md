@@ -1,6 +1,6 @@
 # Technology Changing What it Means to be Human
 
-![Put it Down, Live the Moment](https://youtu.be/lc5cUalJroM)
+[Put it Down, Live the Moment](https://youtu.be/lc5cUalJroM)
 
 # Documentation
 
