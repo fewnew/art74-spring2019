@@ -1,4 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xYR1JGe5I58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Video](https://youtu.be/xYR1JGe5I58)
 ---
 ### A.I City Pitch
 #### Video Art
