@@ -4,7 +4,7 @@
 
 -----
 
-https://vimeo.com/323033591
+Link to video: https://vimeo.com/323033591
 
 ## Details
 
