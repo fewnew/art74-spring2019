@@ -5,9 +5,9 @@
 https://youtu.be/-nadBKaVg_k
 
 ## Documentation
-Title: Lost Soul
-Medium: Digital Video/Video Collage
-Dimensions: 1920x1080
+Title: Lost Soul <b>
+Medium: Digital Video/Video Collage <b>
+Dimensions: 1920x1080 <b>
 Attributes: "Braan na Beatha" composed by Adrian von Zeigler, <b>
             "Hands in Fog" by Life of Pix, <b>
             "Walking Around the Forest" by Pixabay, <b>
