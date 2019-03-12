@@ -9,8 +9,8 @@ Medium: Video Art<br>
 Dimensions: 640 x 360 <br>
 Attributes: Music: Original<br>
 Clips: 
-* <a href="http://videezy.com">Free Broll provided by Videezy!</a><br>
-* Free Broll provided by <a rel="nofollow" href="http://www.videezy.com">Videezy.com</a> <br>
+* https://www.videezy.com/abstract/21223-handheld-clip-of-old-lady-folding-laundry-on-her-bed<br>
+* https://www.videezy.com/people/6770-pov-of-man-with-cellphone <br>
 ## Description
 <br>
 
