@@ -9,13 +9,13 @@ Title: Lost Soul <enter>
 
 Medium: Digital Video/Video Collage <enter>
 
-Dimensions: 1920x1080 <b>
+Dimensions: 1920x1080 <enter>
 
-Attributes: "Braan na Beatha" composed by Adrian von Zeigler, <b>
-            "Hands in Fog" by Life of Pix, <b>
-            "Walking Around the Forest" by Pixabay, <b>
-            "A Park's View of Autumn Trees on a Foggy Day" by INNORECORDS, <b>
-            "Driving Along a Foggy Road" by Asif Khan <b>
+Attributes: "Braan na Beatha" composed by Adrian von Zeigler, <enter>
+            "Hands in Fog" by Life of Pix, <enter>
+            "Walking Around the Forest" by Pixabay, <enter>
+            "A Park's View of Autumn Trees on a Foggy Day" by INNORECORDS, <enter>
+            "Driving Along a Foggy Road" by Asif Khan <enter>
             
 ## Project Description
 
