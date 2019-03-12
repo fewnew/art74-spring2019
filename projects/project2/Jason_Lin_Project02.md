@@ -1,4 +1,4 @@
-## The Sunken Adventure
+## Sunken Adventure
 [Video](https://vimeo.com/user96114955/review/323041538/68d5757ca9)
 
 ## Documentation
