@@ -8,9 +8,9 @@ https://vimeo.com/323033591
 
 ## Details
 
-Title: Data Pal
+Title: Data Pal<br>
 Medium: Video Art<br>
-Dimensions: 1920 x 1080
+Dimensions: 1920 x 1080<br>
 Attributes: Music from [www.bensound.com](www.bensound.com)
 
 
