@@ -3,8 +3,11 @@
 ___
 ### Documentation
 Title: Influencer
+
 Medium: Digital Video
+
 Dimensions: 1920 x 1080
+
 Attributions: Actress - Angelica Shao, Music - K?D "Glitch Boy - forgotten"
 ___
 ### Description
