@@ -20,7 +20,8 @@ Music
 2nd Track https://www.youtube.com/watch?v=fdLu9TeMcbY
 
 
-Description
+Description:
+
 I believe most people seem to view technology in a really negative light, but as someone who is really into gaming, technology is pretty much my social life.
 I often use Snapchat and Discord to chat and keep in touch with the people I've met through gaming. Without these programs and apps, I wouldn't be able to share passions and interests with people that are similar to me. 
 Even though social media is very distracting, especially Instagram, I use it to share videos and pictures with friends instead of posting them myself. 
