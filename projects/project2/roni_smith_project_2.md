@@ -12,6 +12,8 @@ Dimensions: 1080x1920
 Attribution: [Gymnopedie No. 1 (Satie) by Kevin MacLeod](http://freemusicarchive.org/music/Kevin_MacLeod/Classical_Sampler/Gymnopedie_No_1)
 
 
+
+
 I wanted to create something whimsical, playful, sort of humorous and at the same time meaningful about how technology has transformed our lives. People  hide under filters and photo editing apps to make themselves feel better about their appearance. In extreme cases, when shared on social media, you can take on a whole new persona.
 
 I use this character, who looks muppet-like, to represent us as a whole. Sure we all experience different degrees of depersonalization when it comes to social media and crafting this identity -- as we all have different expectations of us. However I didn't want to focus on any specific experience to make the message more universal.
