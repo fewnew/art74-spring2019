@@ -19,6 +19,6 @@ I wanted to create something whimsical, playful, sort of humorous and at the sam
 
 I also wanted to capture the experience of using our phones and apps by using a snapchat overlay and a vertical phone format. Although this is typically the format video makers avoid when creating a video I believe it adds realism.
 
-I use this character, who looks muppet-like, to represent us as a whole. Sure we all experience different degrees of depersonalization when it comes to social media and crafting this identity -- as we all have different expectations of us. However I didn't want to focus on any specific experience to make the message more universal.
+I use this character, who's muppet-like, to both create an emotional response and to represent us as a whole. Sure we all experience different degrees of depersonalization when it comes to social media and crafting this identity -- as we all have different expectations of us. However I didn't want to focus on any specific experience to make the message more universal. This character is just blue, it doesn't have a race or gender.
 
 I think we're becoming more aware of how damaging social media can be, which is what my character realizes at the end of the video -- breaking their phone entirely.
