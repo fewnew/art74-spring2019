@@ -1,0 +1,8 @@
+I learned a lot of things in the article that I read, for example, AR art. 
+AR art is a form of artistic expression that complicates traditional notions of visual arts. 
+AR art spans the arc of public and private presentation and performance of interaction and subversion, with AR art devices, 
+they can act as a multisensory interface to augment the body’s skin.
+
+AR art complicates modern modes of sensibility and conceptions of aesthetic perception.
+AR art coexists with invisibility, even with the physical space of the body. AR art is very important because it exhibits and 
+its an exhibition of cultural expression. 
