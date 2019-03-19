@@ -1,4 +1,5 @@
 # Ice Queen
   While there were many interesting and unique art all around, I decided to focus on Ana Teresa Fernandez’ Ice Queen. 
 	Ice Queen was shot and performed in 2011 by Ana Teresa herself. The 30 minute video displays a shot of Ana Teresa’s feet as she wore shoes made out of ice all the while standing above a street gutter. As the video went on, her shoes would begin to melt to the point where she no longer was wearing her shoes made of ice. She would stand still on the gutter and pour water on herself time after time. The video shows the start and finish of her ice shoes as she wore them and nothing more. 
+	
 	The meaning behind the video was Ana Teresa’s message surrounding women’s labor and tropes of femininity. Her metaphorical glass slippers are visibly painful, built fragile, melting into a drain beneath her feet. Using the Cinderella tale, she exposes the social systems that value women’s bodies as objects of desire as well as workers of what the artist call as “dirty” job. I personally have never seen something similar like this and I loved it.
