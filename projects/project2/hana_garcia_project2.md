@@ -18,3 +18,6 @@ No girl emoji from iemoji.com
 Description:
 I love this song so much due to the playfulness of the beat, and made this I would loosely describe it as animation to illustrate
 what I see when I listen to it. The fast pace of the song and the bright colors seemed to go togehter with each other to me.
+
+Link:
+https://youtu.be/2uCzO9FDsfc
