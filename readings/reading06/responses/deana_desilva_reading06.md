@@ -1,0 +1,3 @@
+i feel like 3d printing is really common but also it still really isnt that common. this article really emphasizes how 3d printing is going to change our world and society. in many ways 3d printing already has changed our society. 
+
+i liked the fact that they included how to use a 3d printer. i noticed that more and more schools and universities are starting to acquire their own 3d printers so i thought that was information i could be able to reflect on in the near future. i also like the serious take on additivism and what that can mean for us as a society. i feel like  where we are right now as a society, reading this article even though it's about 3d printing, can definitely give you some insight on what we should really be trying to accomplish in the end 
