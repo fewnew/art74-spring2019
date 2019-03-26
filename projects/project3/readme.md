@@ -20,7 +20,3 @@ https://www.youtube.com/watch?v=vcuql01165o&t=57s
 * Low Poly https://www.youtube.com/watch?v=921cDYBpuL4
 * Surface Pattern https://www.youtube.com/watch?v=eded6BbR59U
 * Mesh Mix https://www.youtube.com/watch?v=N8V9UnaD0Hc
-* Stencil https://www.youtube.com/watch?v=r-SQVprRdrg&t=29s <br>
-https://www.youtube.com/watch?v=DLNU95qIiPU
-
-
