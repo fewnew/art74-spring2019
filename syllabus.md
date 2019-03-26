@@ -195,9 +195,9 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 7 | Tue, 03/12 | **Lecture:**  — <br> **Lab:** In-class presentation and critical review of Project 02. <br> **Deliver:** [Project 02 (HypermediART)](https://github.com/fewnew/art74-spring2019/tree/master/projects/project2).
 8 | Thu, 03/14 | **Lecture:** Three-Dimensional Art: Form, volume and mass. <br> **Lab:**  Intro to photogrammetry ↣ 3D reality capture with ________? <br> **Deliver:** [Reading 06](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading06/The_3D_Additivist_Manifesto.pdf) //  in class discussion on the reading.
 8 | Tue, 03/19 | **Lecture:**  — <br> **Lab:** Intro to 3D sculpting with MeshMixer ↣ Topics on mesh smoothing and free-form deformations, mesh simplification and repair. <br> **Deliver:** Assignment 04 (Fragment Collection).
-9 | Thu, 03/21 | **Lecture:** — <br> **Lab:** Intro to Three.js library and displaying 3D computer graphics in a web browser. <br> **Deliver:** Progress on Project 04.
-9 | Tue, 03/26 | 
-10 | Thu, 03/28 | **Lecture:**  — <br> **Lab:** In-class presentation and critical review of Project 04. <br> **Deliver:**  [Project 04 (3D MeshMash)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project4#project-04-3d-meshmash).
+9 | Thu, 03/21 | NO CLASS
+9 | Tue, 03/26 | **Lecture:**  — <br> **Lab:** Advanced techniques in MeshMixer <br> **Deliver:** Progress on Project 05.
+10 | Thu, 03/28 | **Lecture:**  — <br> **Lab:** In-class presentation and critical review of Project 03. <br> **Deliver:**  [Project 04 (3D MeshMash)](https://github.com/fewnew/art74-fall2018/tree/master/projects/project4#project-04-3d-meshmash).
 10 | Tue, 04/02 | SPRING BREAK
 11 | Thu, 04/04 | SPRING BREAK
 11 | Tue, 04/09 | **Lecture:** Web literacy (HTML/CSS/JavaScript) as a contemporary art form. <br> **Lab:** Intro to experimental generative 3D in the browser + HTML basics. <br> **Deliver:** [Reading 07](https://github.com/fewnew/art74-fall2018/blob/master/Readings/reading07/Greene%2C%20Rachel%20-%20Web%20Work%2C%20A%20History%20of%20Internet%20Art.pdf) //  in class discussion on the reading.
