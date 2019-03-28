@@ -1,4 +1,4 @@
-  [# Garden of Love](https://sketchfab.com/3d-models/garden-of-love-8469b96e4ee44ab28d9808bcc6400cdb)
+  #[Garden of Love](https://sketchfab.com/3d-models/garden-of-love-8469b96e4ee44ab28d9808bcc6400cdb)
 
 ## Documentation
  -Medium: Virtual Reality
@@ -11,7 +11,7 @@
  
  -[Heart](https://poly.google.com/view/8RA5hHU5g)
  
- -[Vines](https://poly.google.com/view/cnimalnLIEA
+ -[Vines](https://poly.google.com/view/cnimalnLIEA)
  
  -[Tree](https://poly.google.com/view/aPFov1IaCW)
  
