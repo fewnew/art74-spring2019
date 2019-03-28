@@ -7,11 +7,11 @@ Dimensions: desktop
 
 Attributions:
 
-[Hanger](https://poly.google.com/view/cWzIGar8RJL);
-[Spoon](https://poly.google.com/view/9_F2bQrTAmM);
-[Shoe](https://poly.google.com/view/9qG_dsvmW_h);
-[Pants](https://poly.google.com/view/azWdamCHUWQ);
-[Cereal](https://poly.google.com/view/4jJs0oMp8C1);
+[Hanger](https://poly.google.com/view/cWzIGar8RJL),
+[Spoon](https://poly.google.com/view/9_F2bQrTAmM),
+[Shoe](https://poly.google.com/view/9qG_dsvmW_h),
+[Pants](https://poly.google.com/view/azWdamCHUWQ),
+[Cereal](https://poly.google.com/view/4jJs0oMp8C1),
 [Door](https://poly.google.com/view/dRvd7q2nO-6)<br><br>
 
 
