@@ -1,6 +1,6 @@
 ## [Max's Island](https://skfb.ly/6IRY8)
-#### Medium: MeshMixer, Qlone.
-#### Dimensions: Desktop Screen
+#### Medium: 3D polygons in MeshMixer, Sketchfab
+#### Dimensions: Online, Desktop, Mobile
 #### Attributions: 
-+ [Lotus: cgs3d](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1116825) + [3D Lipstick model:Kori_dacosta](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1375035) + [Desert Cactus Model: risenwing](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1329258)+ Bunny Ears, Arms and Sphere are from MeshMixer
++ [Rocks](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1229910) , [Leaves](https://www.turbosquid.com/FullPreview/Index.cfm/ID/580785) , [Palm1](https://www.turbosquid.com/FullPreview/Index.cfm/ID/835906), [Rock with Tree](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1105265), [Palms](https://www.turbosquid.com/FullPreview/Index.cfm/ID/490485), [Drums](https://www.turbosquid.com/FullPreview/Index.cfm/ID/501607), textures from MeshMixer, appearence from Sketchfab.  
 <br>
