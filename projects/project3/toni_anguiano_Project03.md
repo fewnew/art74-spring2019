@@ -1,17 +1,19 @@
-#Candy Grave
+# Candy Grave
 
 https://skfb.ly/6IPwL
 
-###Documentation
-####Attribution
+### Documentation<b>
+  
+#### Attribution<b>
+  
 1. Poly Bat by Miguelangelo Rosario<b>
 2. polygon and animal forms from MeshMixer<b>
 
-####Dimensions
+#### Dimensions<b>
 1MB
 Virtual Reality/3D Art
 
-###Description
+### Description
 
 A bright colored candy plane is luring in monsters and consuming them. I created this<b>
 piece for the humor of it rather than anything serious or meaningful. I wanted this 3D<b>
