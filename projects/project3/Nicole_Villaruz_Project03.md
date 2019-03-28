@@ -1,4 +1,4 @@
-  [Garden of Love](https://sketchfab.com/3d-models/garden-of-love-8469b96e4ee44ab28d9808bcc6400cdb)
+  [Garden of Love](https://skfb.ly/6ISoy)
 
 ## Documentation
  -Medium: Virtual Reality
