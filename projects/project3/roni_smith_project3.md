@@ -1,8 +1,8 @@
 Title: [“Messy”](https://sketchfab.com/3d-models/messy-d9321b46396f49c4913495f1fdeabba6)
 
-Medium: digital/ 3d model<br><br>
+Medium: digital/ 3d model
 
-Dimensions: desktop <br><br>
+Dimensions: desktop
 
 
 Attributions:
