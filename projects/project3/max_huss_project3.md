@@ -1,6 +1,7 @@
 ## [Max's Island](https://skfb.ly/6IRY8)
 #### Medium: 3D polygons in MeshMixer, Sketchfab
 #### Dimensions: Online, Desktop, Mobile
-#### Attributions: 
-[Rocks](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1229910)<br> [Leaves](https://www.turbosquid.com/FullPreview/Index.cfm/ID/580785) <br> [Palm1](https://www.turbosquid.com/FullPreview/Index.cfm/ID/835906)<br> [Rock with Tree](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1105265)<br> [Palms](https://www.turbosquid.com/FullPreview/Index.cfm/ID/490485)<br> [Drums](https://www.turbosquid.com/FullPreview/Index.cfm/ID/501607)<br> textures from MeshMixer, appearence from Sketchfab.  
+#### Attributions:
+[Rocks](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1229910)<br> [Leaves](https://www.turbosquid.com/FullPreview/Index.cfm/ID/580785) <br> [Palm1](https://www.turbosquid.com/FullPreview/Index.cfm/ID/835906)<br> [Rock with Tree](https://www.turbosquid.com/FullPreview/Index.cfm/ID/1105265)<br> [Palms](https://www.turbosquid.com/FullPreview/Index.cfm/ID/490485)<br> [Drums](https://www.turbosquid.com/FullPreview/Index.cfm/ID/501607)<br> textures/editing from MeshMixer, appearence from Sketchfab.  
 <br>
+My first 3D anything! For this project, as we meshed things together to create imaginary worlds and objects and scenes, I created my ideal vacation spot. Here, on an island of rocky texture, with a shiny green/grey glow, dotted with shady palms and adorned with a beautiful set of drums, I find some peace and quiet that I can disturb on my own terms. Large enough for a small group of friends to elope by my side and comfortable enough to be shaded from the sun on this vatation, this island provies a private musical getaway for those who take advantage of it. Using 3D models on _TurboSquid_, I edited and pieced them together in Meshmixer. Then as one .obj file, I added a glossy green finish in Sketchfab to tie the whole thing together. Sit back, relax, and enjoy the music. 
