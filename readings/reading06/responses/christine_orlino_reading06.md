@@ -1,0 +1,3 @@
+My first impression of this reading is it's very long, but the pictures fascianted me. I liked how in the beginning section it showed the old tool mixed with the new. The contrast between the two types of materials was really interesting to look at, yet the item still functions the same. 
+
+The next article made me laugh at the idea and the pictures. The idea of combining 3D printing with humans was also interesting. This is like fusing the benefits of humans and technology in one, without having it be permanent. It's an interesting idea overall, but with the drawings that they gave us it still looks like it needs some improvement with the aesthetics.
