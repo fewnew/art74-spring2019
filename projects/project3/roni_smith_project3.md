@@ -1,7 +1,9 @@
-[“Messy”](https://sketchfab.com/3d-models/messy-d9321b46396f49c4913495f1fdeabba6)
+Title: [“Messy”](https://sketchfab.com/3d-models/messy-d9321b46396f49c4913495f1fdeabba6)
+Medium: digital/ 3d model<br><br>
+Dimensions: desktop <br><br>
 
 
-**Attributions
+Attributions
 
 [Hanger](https://poly.google.com/view/cWzIGar8RJL)
 
