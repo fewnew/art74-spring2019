@@ -2,7 +2,7 @@
 
 https://skfb.ly/6ISnX 
 
-Medium: 3D Modeling (Via MeshMaker)
+Medium: 3D Modeling (Via MeshMixer)
 
 Dimensions: Online Desktop
 
