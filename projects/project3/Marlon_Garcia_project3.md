@@ -1,6 +1,5 @@
 <h1>3D MeshMash Project</<h1>
-  <h3>https://skfb.ly/6JtGH</h3>
-  <a href="https://skfb.ly/6JtGH">Roses and Skull</a>
+  <h3><a href="https://skfb.ly/6JtGH">Roses and Skull</a></h3>
  
  <h2>Documentation</h2>
 <p>Tittle: Roses turn you into a skull</p>
