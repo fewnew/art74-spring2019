@@ -3,6 +3,9 @@
  
  <h2>Documentation</h2>
 <p>Tittle: Roses turn into skulls</p>
-<p>atributions:</p>
-<li>Meshmixer</li>
-<li>Poly</li>
+<p>Attributions:</p>
+<li>Meshmixer - Objects</li>
+<li>Poly - Roses and Skull</li>
+
+<h2>Description</h2>
+<p>For this project I focus myself in getting trying to add objects into the skull, Ive always been a fan of skull and roses tattoos, I wanted to recreated something I would like tat myself in the future. I also tried to create something abstract because sometimes it just works out perfectly. 
