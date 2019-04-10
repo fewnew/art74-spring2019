@@ -3,7 +3,9 @@
  
  <h2>Documentation</h2>
 <p>Tittle: Roses turn into skulls</p>
-<p>Attributions:</p>
+<p>Medium: Virtual 3D Sculpture</p>
+
+<h3>Attributions:</h3>
 <li>Meshmixer - Objects</li>
 <li>Poly - Roses and Skull</li>
 
