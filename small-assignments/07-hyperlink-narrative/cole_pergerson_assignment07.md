@@ -1,5 +1,5 @@
 # Spacewave
 
-Just relax and let your self wonder through space
+Just relax and let yourself wonder through space
 
 -> https://llamatemplar.github.io/Spacewave/
