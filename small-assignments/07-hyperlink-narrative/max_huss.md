@@ -1,4 +1,4 @@
-I made three pages of music videos that all link to one another to take a veiwer through a series of my band's work. <br><br>
+I made three pages of music videos that all link to one another to take a viewer through a series of my band's work. <br><br>
 ![Photo](https://i.imgur.com/fDziDRI.jpg)<br><br><br>
 ![Photo](https://imgur.com/tGjgTJg.jpg)<br><br><br>
 ![Photo](https://imgur.com/OW5ICPm.jpg)<br><br><br>
