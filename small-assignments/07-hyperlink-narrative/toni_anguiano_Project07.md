@@ -1,1 +1,1 @@
-![Torus Star](<blockquote class="imgur-embed-pub" lang="en" data-id="a/8KgFTAN"><a href="//imgur.com/8KgFTAN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+https://imgur.com/IneZhKS
