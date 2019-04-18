@@ -1,1 +1,1 @@
-![Torus Star](https://imgur.com/IneZhKS)
+https://imgur.com/IneZhKS
