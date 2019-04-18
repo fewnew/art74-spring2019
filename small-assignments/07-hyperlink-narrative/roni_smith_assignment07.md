@@ -1,1 +1,1 @@
-link to photos: https://imgur.com/T828vCa
+link to photos: https://imgur.com/a/BNJGNIi
