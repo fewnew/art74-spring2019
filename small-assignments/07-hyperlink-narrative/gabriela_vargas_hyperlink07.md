@@ -1,0 +1,2 @@
+I designed a photoset page of artworks that I found relative to my own background of favorite pieces of art. Each of the paintings link to a page about the art pieces. In the later future, I hope to have my own exhibit of work in many Galleries all across the globe. Since this photo doesnt not contain audio, I took some time to add in some music in the background when you enter the page, which is an instrumental of one of my favorite songs which I feel really ties into the theme of my own mind. <br><br>
+![Photo](https://i.imgur.com/cOCFZfW.png)<br><br><br>
