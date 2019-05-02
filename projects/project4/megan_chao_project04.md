@@ -1,5 +1,5 @@
 # eFolio
-[Megan's Web Portfolio](megannchao.cf)
+megannchao.cf
 
 # Documentation
 Title: Megan Chao | Portfolio Website
