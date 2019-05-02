@@ -4,6 +4,8 @@ Title: Work by Cole Pergerson
 
 Medium: HTML, CSS, Javascript, ThreeJS
 
+Attributes: Atom, Freenom
+
 ## Site
 
 https://llamatemplar.github.io/eFolio/
