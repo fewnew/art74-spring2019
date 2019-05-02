@@ -1,4 +1,4 @@
-# Web Portfolio
+# eFolio
 [Megan's Web Portfolio](megannchao.cf)
 
 # Documentation
