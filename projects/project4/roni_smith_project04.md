@@ -1,5 +1,6 @@
 http://ronismith.ga/
 
+
 title: Roni Smith | Art 74 Portfolio
 
 medium: html, css, javascript
