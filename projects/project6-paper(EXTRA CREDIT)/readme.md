@@ -1,4 +1,4 @@
-# Final Paper
+# Extra Credit Paper
 ### :six: 
 
 Write a 5-page PDF paper including: 
