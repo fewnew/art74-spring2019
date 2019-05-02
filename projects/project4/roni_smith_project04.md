@@ -1,4 +1,4 @@
-link to site: ronismith.ga
+link to site: (ronismith.ga)
 
 title: Roni Smith | Art 74 Portfolio
 medium: html, css, javascript
