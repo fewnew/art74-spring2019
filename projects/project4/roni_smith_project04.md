@@ -1,4 +1,4 @@
-(https://ronismith.ga)
+http://ronismith.ga/
 
 title: Roni Smith | Art 74 Portfolio
 
