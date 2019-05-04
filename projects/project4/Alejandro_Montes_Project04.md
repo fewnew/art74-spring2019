@@ -1,6 +1,6 @@
 # eFolio
 
-[Portfolio](https://ampvisuals.tk)
+[Portfolio](ampvisuals.tk)
 
 # Documentation
 
