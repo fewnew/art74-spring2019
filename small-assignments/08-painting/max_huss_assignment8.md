@@ -22,8 +22,7 @@ void draw() {
   ellipse(150, 140, 100, 100);
     stroke(108); 
   ellipse(140, 140, 100, 100);
-  
-    stroke(109); 
+  stroke(109); 
     ellipse(130, 130, 100, 100);
       stroke(110); 
     ellipse(130, 140, 100, 100);
@@ -55,8 +54,7 @@ void draw() {
     ellipse(170, 160, 100, 100);
       stroke(124); 
     ellipse(170, 170, 100, 100);
-    
-      stroke(125); 
+    stroke(125); 
       ellipse(120, 130, 100, 100);
         stroke(126); 
       ellipse(120, 140, 100, 100);
@@ -104,8 +102,7 @@ void draw() {
       ellipse(180, 170, 100, 100);
         stroke(148); 
       ellipse(180, 180, 100, 100);
-      
-        stroke(150); 
+      stroke(150); 
       ellipse(110, 110, 100, 100);  
         stroke(151); 
       ellipse(110, 120, 100, 100);
@@ -123,8 +120,7 @@ void draw() {
       ellipse(110, 180, 100, 100);
         stroke(158); 
       ellipse(110, 190, 100, 100);
-      
-        stroke(159); 
+      stroke(159); 
       ellipse(110, 190, 100, 100);
         stroke(160); 
       ellipse(120, 110, 100, 100);
@@ -152,9 +148,7 @@ void draw() {
       ellipse(180, 110, 100, 100);
         stroke(172); 
       ellipse(180, 190, 100, 100);
-     
-      
-        stroke(173); 
+     stroke(173); 
       ellipse(190, 110, 100, 100);
         stroke(174); 
       ellipse(190, 120, 100, 100);
