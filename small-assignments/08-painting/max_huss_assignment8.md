@@ -1,9 +1,8 @@
 void setup() {
   size(300,300);  
-  background(0); 
-}
+  background(0);}
 
-void draw(){
+void draw() {
   noFill(); 
   stroke(100); 
   ellipse(150, 150, 100, 100);
