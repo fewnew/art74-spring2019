@@ -1,1 +1,1 @@
-https://maxhuss.ml
+http://maxhuss.ml/
