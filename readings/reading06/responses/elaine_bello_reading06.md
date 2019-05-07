@@ -1,0 +1,3 @@
+The reading, "The 3D Additivist Cookbook" makes the audience questions whether it is possible to change the world without also changing ourselves, and what are the implications of taking a position. This #Additivism has become a movement of critiquing the new 'radical' technologies in areas such as: fablabs, workshops, classrooms, and through global scales.
+
+I find it interesting that they have decided to call this book a "cookbook" because it incorporates different forms of art, engineering, scifi and digital aesthetics under this vast umbrella term. Allahyari and Rourke basically created this 'cookbook' in order to invite artists and other influencers to submit their ideas and to reflect on the current state of additive manufacturing.
