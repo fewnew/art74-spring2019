@@ -3,10 +3,10 @@ void setup() {
   background(255);
 }
 void draw(){
-  noStroke();
-  fill(198, 148, 79);
-  rect(250,300,300,300);
-  fill(200, 148, 79);
+   noStroke();
+   fill(198, 148, 79);
+   rect(250,300,300,300);
+   fill(200, 148, 79);
   triangle(400,180,400,300,250,300);
   fill(200, 148, 79);
   triangle(550,300,400,300,400,180);
