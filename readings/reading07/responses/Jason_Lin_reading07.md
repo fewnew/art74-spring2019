@@ -1,0 +1,3 @@
+This is actually the first time I've really heard of the term net art, even though I've seen a lot due the vastness of the internet. Its surprising that a lot of things are discovered through accidents and in this case, it was discovered because of a glitch.The internet is basically an unlimited media for those who want to create intangible art, especially for digital artists like me.
+
+Its great that many communities and relationships can form on this internet as well as people who share the same passion for digital art. Even behind the scenes movements were being pushed by artist in order to define themselves as artists. This article has been very relavant to me as a digital media artist and has been very informative about the history of the internet and net art.
