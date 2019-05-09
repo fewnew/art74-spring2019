@@ -1,0 +1,3 @@
+The reading "The 3D Addivist Manifesto", elaborates on the innovative technology of 3D printing. The invention is definitely revolutionary and can take humanity one step forward in producing products with recycled plastics, since we have so much floating around our planet. 3D printers are starting to become a common thing and even more advanced by the years to come.
+
+I've read that 3D printers today have taken another step into the future, where it is capable of producing tissue and organs, soon we'll be able to produce much more. The author does mention that it may take over the best of us, but it is a step we should be willing to take.
