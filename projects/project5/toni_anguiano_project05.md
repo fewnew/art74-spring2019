@@ -1,14 +1,16 @@
-#Coding Fun
+# Coding Fun
 
 https://tanguiano92.github.io/index.html
 
-##Documentation
+## Documentation
 
-###Medium: Code, Css
+### Medium: Code, Css
 
-###Size: 800 x 800 px.
+### Size: 800 x 800 px.
 
-###Attributions: P5.js
+### Attributions: P5.js
+
+## Project Description
 
 I created this piece using in-line code and by basically playing around with RBG. 
 I aspired to make something in relation to the basic RBG, CYMK and black and white in 
