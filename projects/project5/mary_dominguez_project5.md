@@ -1,8 +1,10 @@
 # ArtWare
 
 Title: Marching Along
-Dimensions: 800 x 800
+
 Medium: Javascript
+
+Dimensions: 800 x 800
 
 Attributes: p5.Js
 
