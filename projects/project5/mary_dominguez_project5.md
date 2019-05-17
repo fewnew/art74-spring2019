@@ -1,6 +1,7 @@
 # EPortfolio
 
 Title: Marching Along
+Dimensions: 800 x 800
 Medium: Javascript
 
 Attributes: p5.Js
