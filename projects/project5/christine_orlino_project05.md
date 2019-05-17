@@ -1,4 +1,4 @@
-[e-folio](https://christineorlino.github.io/index.html)
+[e-folio](https://christineorlino.github.io/)
 
 ## Project Documentation
 
