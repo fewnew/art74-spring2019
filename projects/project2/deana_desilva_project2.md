@@ -2,7 +2,7 @@
 
 -----
 
-Link to video: https://vimeo.com/user98655725/review/336954715/fafd5f19f6
+Link to video: https://www.youtube.com/embed/g_ivxbVWOFg
 
 ## Details
 
