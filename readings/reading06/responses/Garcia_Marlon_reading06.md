@@ -1,0 +1,4 @@
+While reading the 3D Additivist Cookbook, I found it to be a bit difficult what the real message it was trying to provide other than showing us different techniques that have been around. 
+
+Some things that really caught my eye where points that were made off in the first reading like #9 Hacks/cracks/viruses for 3D printing software, every since I started dedicating myself to coding I tend to get very triggered to learn more things about it. I would like to learn how to prevent those things from happening. But going back to some of the things I found while reading the book was the evolution of the spermalege, when I look at the projects it made total sense, Much of Joey Holder’s work references a very weird nature and features an array of creatures that don’t seem to blend within the fabric of our 
+usual day-to-day existence.
